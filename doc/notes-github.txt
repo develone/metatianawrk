@@ -81,3 +81,14 @@ Changes not staged for commit:
         modified:   doc/notes-github.txt
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+git push 
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (13/13), 690.80 KiB | 5.66 MiB/s, done.
+Total 13 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To github.com:develone/metatianawrk.git
+ * [new branch]      master -> master
