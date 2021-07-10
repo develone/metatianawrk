@@ -1,0 +1,53 @@
+I am going to use the document to provided pibuild.pdf an example of using git.
+
+Revison Control is very important in Software Developement.  Having a way to share code with others is
+very helpful.  Github provides for free open source use.  When you are developing code that you want
+only your group to see they provide private access for a free.  Your need an account at github.com.
+
+git clone git@github.com:develone/metatianawrk.git
+
+cd metatianawrk/
+
+mkdir doc
+
+
+cp pibuild.* ~/metatianawrk/doc/
+
+git add doc
+
+git status | less
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   doc/pibuild.odt
+        new file:   doc/pibuild.pdf
+
+git commit -a 
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#       new file:   doc/pibuild.odt
+#       new file:   doc/pibuild.pdf
+
+git log
+commit af9a18887b3a96e1c7425f6097154fe157084824 (HEAD -> master)
+Author: Edward Vidal Jr <develone@sbcglobal.net>
+Date:   Sat Jul 10 06:21:52 2021 -0600
+
+    Initial Example using pibuild a document sent in a pdf file now adding odt
+    file such that changes can be done by user.
+
+
+  
