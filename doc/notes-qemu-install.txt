@@ -1,3 +1,7 @@
+ls /usr/bin/qemu-*
+/usr/bin/qemu-img  /usr/bin/qemu-nbd        /usr/bin/qemu-system-aarch64
+/usr/bin/qemu-io   /usr/bin/qemu-pr-helper  /usr/bin/qemu-system-arm
+
 sudo apt-get install qemu-system-arm
 [sudo] password for devel: 
 1Sorry, try again.
