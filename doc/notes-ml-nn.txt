@@ -1,0 +1,52 @@
+Machine learning & Nurral network
+
+https://www.arducam.com/raspberry-pi-pico-tensorflow-lite-micro-person-detection-arducam/
+
+https://www.amazon.com/Arducam-Pico4ML-TinyML-RP2040-Onboard/dp/B0919KQ7NV
+
+
+07/11/21
+https://www.arducam.com/raspberry-pi-pico-tensorflow-lite-micro-person-detection-arducam/
+
+https://www.amazon.com/Arducam-Pico4ML-TinyML-RP2040-Onboard/dp/B0919KQ7NV
+
+recognize hand written digits
+
+Machine learning & Nurral network.
+07/13/21
+
+But what is a neural network? | Chapter 1, Deep learning
+
+
+This work is closely related to ML 
+https://cecas.clemson.edu/~stb/klt/ref/index.html
+
+sshkeys.png
+git clone git@github.com:develone/camerawatson.git
+After setting up the ssh keys use git instead of https to fetch repos.
+qpdfview ~/camerawatson/doc/svdana1.pdf &
+
+
+What are the neurons, why are there layers, and what is the math underlying it?
+Help fund future projects: https://www.patreon.com/3blue1brown
+Additional funding for this project provided by Amplify Partners
+An equally valuable form of support is to simply share some of the videos.
+Special thanks to these supporters: http://3b1b.co/nn1-thanks
+
+28 x 28 pixel 784 in first layer a n 2 hidden layers of 16 with the results 0 to 9 
+in the 3rd layer.
+
+Convolutinal nueral network --> Good for image recognition.
+Long short-term memory network --> Good for speech recognition.
+nn1.png
+nn2.png
+nn3.png
+nn4.png
+nn5.png 09:46
+
+sobel filter preforms edge detection. cracknocrack.pdf
+
+
+Full playlist: http://3b1b.co/neural-networks
+
+
